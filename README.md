@@ -58,9 +58,4 @@ Model Deployment
 + Web app built with Streamlit
 + Local deployment with ngrok tunnel
 
-📊 Results & Analysis
-Best model: EfficientNetB0
-Achieved highest F1-Score and ROC-AUC
-Successfully reduced overfitting with data augmentation
-Web app enabled real-time predictions on user-uploaded images
 
